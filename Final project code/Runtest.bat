@@ -1,0 +1,2 @@
+python TrafficSign_app.py
+pause
